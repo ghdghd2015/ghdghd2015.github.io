@@ -1,0 +1,201 @@
+Column1,movie_name,genre,human_frame,c_count,kor_name,eng_name,gender,av_age,disabled,d_type,av_smile,anger,disgust,fear,happiness,neutral,sadness,surprise,most_emotion_expressed
+198,Inseparable_Bros,Drama,4440,1667,강세하,Seha,Male,42.98,TRUE,Physical Disability,5,0.01,0.02,0.13,0.03,0.43,0.15,0.23,surprise
+167,Silenced,Drama,4860,783,강인호,Inho,Male,31.04,FALSE,-,4,0.04,0.04,0.08,0.02,0.27,0.19,0.36,surprise
+80,Oneday,Romance,3542,65,강팀장,Teamleader Kang,Male,38.62,FALSE,-,15,0.03,0.03,0.02,0.06,0.45,0.18,0.23,surprise
+94,My_Bossy_Girl,Romance,4255,1389,강혜진,Hyejin,Female,30.94,TRUE,Physical Disability,28,0.01,0.01,0.07,0.2,0.33,0.17,0.2,happiness
+0,Marathon,Drama,4052,1085,경숙(엄마),Kyungsook(Mother),Female,38.4,FALSE,-,12,0.02,0.01,0.08,0.05,0.43,0.17,0.23,surprise
+54,Like_for_Likes,Romance,5594,384,경아,Kyeongah,Female,32.97,FALSE,-,25,0.01,0.02,0.01,0.13,0.58,0.15,0.1,sadness
+46,CHEER_UP_MR_LEE,Comedy,4265,60,경찰관,Police Officer,Male,46,FALSE,-,1,0.03,0,0.05,0,0.63,0.25,0.03,sadness
+183,Innocent_Witness,Drama,5282,63,경희,Kyunghee,Female,25.92,FALSE,-,19,0.03,0.02,0.03,0.1,0.11,0.13,0.59,surprise
+16,MY_ANNOYING_BROTHER,Comedy,4650,2182,고두식(형),Doosik,Male,27.86,FALSE,-,9,0.02,0.02,0.01,0.08,0.63,0.17,0.06,sadness
+17,MY_ANNOYING_BROTHER,Comedy,4650,1276,고두영(주인공),Dooyeong,Male,22.66,TRUE,Visual Impairment,10,0.04,0.05,0.01,0.06,0.69,0.13,0.03,sadness
+140,GLOVE,Drama,5519,748,교감,Vice Principal,Male,45.8,FALSE,-,5,0.05,0.04,0.1,0.03,0.34,0.1,0.35,surprise
+142,GLOVE,Drama,5519,269,교장 수녀,Principal Nun,Female,38.22,FALSE,-,6,0.01,0.02,0.1,0.02,0.24,0.24,0.38,surprise
+173,Silenced,Drama,4860,395,교장형제,Principal's Brother,Male,53.17,FALSE,-,3,0.07,0.03,0.11,0.01,0.32,0.17,0.3,surprise
+143,GLOVE,Drama,5519,36,구단장,Club Head,Male,65.28,FALSE,-,5,0.06,0,0,0.08,0.17,0.03,0.67,surprise
+133,Roaring_Currents,Action,3695,28,구루지마,Gurujima,Male,38.5,FALSE,-,5,0.21,0,0.29,0,0.25,0.11,0.14,fear
+192,Bunt,Comedy,2350,192,권 코치,Coach Kwon,Male,32.58,FALSE,-,30,0.06,0.09,0.01,0.12,0.47,0.14,0.12,sadness
+93,Blind,Crime/Thriller,2972,388,권기섭,Kiseop,Male,22.95,FALSE,-,14,0.04,0.03,0.02,0.09,0.52,0.23,0.07,sadness
+109,Memories_of_Murder,Crime/Thriller,3663,42,권기옥,Kiok,Female,28.76,FALSE,-,1,0.02,0,0.05,0.05,0.45,0.07,0.36,surprise
+73,Stone_Skipping,Drama,3553,699,김 선생,Teacher Kim,Female,33.27,FALSE,-,10,0.02,0.02,0.06,0.09,0.42,0.18,0.2,surprise
+158,Miracle_in_Cell_No_7,Comedy,3481,41,김교도관,Warden Kim,Male,35.54,FALSE,-,13,0.05,0.05,0,0.12,0.59,0.07,0.12,happiness
+21,Who_Are_You,Romance,3884,241,김남훈(친구),Namhoon,Male,34.44,FALSE,-,6,0.09,0.03,0.13,0.02,0.23,0.34,0.17,sadness
+88,Blind,Crime/Thriller,2972,25,김동현,Donghyeon,Male,25.36,FALSE,-,28,0.04,0.04,0.04,0.16,0.24,0.28,0.2,sadness
+139,GLOVE,Drama,5519,1515,김상남,Sangnam,Male,40.04,FALSE,-,5,0.06,0.05,0.05,0.02,0.33,0.07,0.43,surprise
+84,Oneday,Romance,3542,78,김선화,Seonhwa,Female,25.19,FALSE,-,12,0,0,0,0.06,0.58,0.35,0.01,sadness
+44,CHEER_UP_MR_LEE,Comedy,4265,185,김씨,Mr Kim,Male,54.8,FALSE,-,4,0.04,0.05,0.15,0.03,0.25,0.38,0.11,sadness
+168,Silenced,Drama,4860,552,김연두,Yeondoo,Female,28.79,TRUE,Hearing Impairment,7,0.09,0.01,0.11,0.02,0.35,0.12,0.29,surprise
+62,Keys_to_the_Heart,Comedy,3970,2365,김조하 (형),Joha,Male,33.16,FALSE,-,10,0.08,0.04,0.12,0.03,0.32,0.1,0.31,surprise
+144,GLOVE,Drama,5519,128,김진만,Jinman,Male,27.11,TRUE,Hearing Impairment,6,0.03,0.02,0.13,0.01,0.27,0.2,0.34,surprise
+59,Like_for_Likes,Romance,5594,687,나연,Nayeon,Female,28.76,FALSE,-,19,0.02,0,0.01,0.15,0.54,0.23,0.05,sadness
+165,Innocence,Drama,4446,72,나일정,Iljung,Male,59.92,FALSE,-,8,0.11,0.06,0.06,0.01,0.24,0.19,0.33,surprise
+137,GLOVE,Drama,5519,637,나주원,Joowon,Female,33.56,FALSE,-,10,0.02,0.03,0.13,0.02,0.18,0.09,0.54,surprise
+33,Barefoot_Gi_Bong,Comedy,3200,59,노 이장,Village-Leader Noh,Male,50.1,FALSE,-,29,0.03,0.03,0.03,0.27,0.37,0.24,0.02,happiness
+71,Stone_Skipping,Drama,3553,611,노신부,Father Noh,Male,51.02,FALSE,-,11,0.15,0.12,0.04,0.04,0.48,0.12,0.05,disgust
+197,Sympathy_For_Mr_Vengeance,Crime/Thriller,2731,37,누나,Sister,Female,14.57,FALSE,-,13,0.11,0.03,0.11,0.27,0.27,0.08,0.14,happiness
+82,Oneday,Romance,3542,987,단미소,Miso,Female,28.61,TRUE,Visual Impairment,18,0.02,0.04,0.03,0.15,0.47,0.22,0.07,sadness
+52,CHEER_UP_MR_LEE,Comedy,4265,210,덕구,Deokgu,Male,44.33,FALSE,-,26,0.05,0.11,0.05,0.16,0.36,0.14,0.13,happiness
+119,Believer,Crime/Thriller,4389,33,동영,Dongyeong,Male,31.21,TRUE,Hearing Impairment,13,0.03,0.06,0.09,0.06,0.3,0.12,0.33,surprise
+194,Sympathy_For_Mr_Vengeance,Crime/Thriller,2731,321,동진,Dongjin,Male,36.61,FALSE,-,5,0.07,0.03,0.05,0.04,0.25,0.15,0.41,surprise
+101,My_Bossy_Girl,Romance,4255,137,라진,Rajin,Female,30.82,TRUE,Physical Disability,26,0.04,0.04,0.11,0.16,0.15,0.12,0.37,surprise
+114,Believer,Crime/Thriller,4389,829,락,Rock,Male,26.79,FALSE,-,3,0.02,0.01,0.07,0.01,0.23,0.06,0.6,surprise
+193,Sympathy_For_Mr_Vengeance,Crime/Thriller,2731,871,류,Ryu,Male,30.08,TRUE,Hearing Impairment,3,0.03,0.02,0.08,0.01,0.27,0.14,0.45,surprise
+154,Miracle_in_Cell_No_7,Comedy,3481,240,만범,Manbum,Male,44.26,FALSE,-,13,0.03,0.05,0.01,0.05,0.52,0.14,0.2,surprise
+125,The_Preparation,Drama,3176,201,문경,Moonkyeong,Female,34.4,FALSE,-,9,0,0.01,0.03,0.07,0.4,0.36,0.12,sadness
+68,Keys_to_the_Heart,Comedy,3970,47,문성기,Seonggi,Male,34.72,FALSE,-,17,0.13,0.04,0.09,0.04,0.21,0.11,0.38,surprise
+184,Innocent_Witness,Drama,5282,99,미란,Miran,Female,34.72,FALSE,-,18,0.08,0.01,0.04,0.04,0.22,0.29,0.31,surprise
+83,Oneday,Romance,3542,7,미소 간병인,Miso's Caretaker,Female,31.43,FALSE,-,1,0,0,0,0,0.71,0,0.29,surprise
+86,Oneday,Romance,3542,174,미소 엄마,Miso's Mother,Female,35.88,FALSE,-,7,0,0.02,0.01,0.04,0.7,0.21,0.02,sadness
+200,Inseparable_Bros,Drama,4440,442,미현,Mihyeon,Female,30.8,FALSE,-,10,0.03,0.01,0.03,0.07,0.39,0.15,0.31,surprise
+87,Blind,Crime/Thriller,2972,1141,민수아,Sooah,Female,30.83,TRUE,Visual Impairment,13,0.01,0.02,0.03,0.11,0.62,0.15,0.06,sadness
+49,CHEER_UP_MR_LEE,Comedy,4265,38,민정,Minjeong,Female,23.26,FALSE,-,8,0.03,0.03,0.03,0.05,0.34,0.39,0.13,sadness
+57,Like_for_Likes,Romance,5594,58,민정,Minjung,Female,31.88,FALSE,-,24,0.05,0.1,0.02,0.19,0.45,0.09,0.1,happiness
+123,The_Preparation,Drama,3176,107,박계장,Chief Park,Male,59.99,FALSE,-,15,0,0.02,0.04,0.17,0.54,0.21,0.03,sadness
+201,Inseparable_Bros,Drama,4440,977,박동구,Donggu,Male,32.53,TRUE,Intellectual Disability,18,0.12,0.05,0.05,0.06,0.29,0.09,0.34,surprise
+103,Memories_of_Murder,Crime/Thriller,3663,1213,박두만,Dooman,Male,35.44,FALSE,-,7,0.04,0.05,0.02,0.07,0.6,0.17,0.05,sadness
+7,Au_Revoir_UFO,Romance,4476,1906,박상현(남주),Sanghyeon,Male,33.02,FALSE,-,23,0.04,0.05,0.04,0.19,0.45,0.14,0.09,happiness
+117,Believer,Crime/Thriller,4389,134,박선창,Seonchang,Male,34.28,FALSE,-,15,0.01,0.01,0.1,0.07,0.24,0.14,0.43,surprise
+199,Inseparable_Bros,Drama,4440,128,박신부,Father Park,Male,58.88,FALSE,-,14,0.07,0.11,0.12,0.05,0.15,0.23,0.27,surprise
+111,Memories_of_Murder,Crime/Thriller,3663,119,박현규,Hyeongyu,Male,24.25,FALSE,-,12,0.01,0,0.02,0.01,0.87,0.09,0.01,sadness
+90,Blind,Crime/Thriller,2972,67,반장,Investigation Leader,Male,52.63,FALSE,-,5,0.04,0.06,0.01,0.01,0.45,0.28,0.13,sadness
+185,Bunt,Comedy,2350,73,반장,Class Leader,Female,22.51,FALSE,-,9,0.04,0.03,0.08,0.04,0.58,0.16,0.07,sadness
+27,The_Soup,Drama,394,8,반장 서씨,Representative Seo,Male,61,FALSE,-,25,0,0,0,0.25,0.62,0,0.12,happiness
+156,Miracle_in_Cell_No_7,Comedy,3481,102,방장,Room Master,Male,44.83,FALSE,-,13,0.06,0.06,0.03,0.06,0.67,0.06,0.07,surprise
+127,Roaring_Currents,Action,3695,103,배설,Baeseol,Male,41.68,FALSE,-,5,0.08,0,0.13,0.04,0.15,0.08,0.53,surprise
+107,Memories_of_Murder,Crime/Thriller,3663,310,백광호,Gwangho,Male,35.09,TRUE,Intellectual Disability,9,0.05,0.03,0.03,0.06,0.55,0.11,0.17,surprise
+107,Memories_of_Murder,Crime/Thriller,3663,310,백광호,Gwangho,Male,35.09,TRUE,Physical Disability,9,0.05,0.03,0.03,0.06,0.55,0.11,0.17,surprise
+30,Barefoot_Gi_Bong,Comedy,3200,538,백이장,Village-Leader Baek ,Male,62.47,FALSE,-,16,0.03,0.02,0.01,0.09,0.66,0.14,0.05,sadness
+69,Keys_to_the_Heart,Comedy,3970,7,변수정,Soojeong,Female,28.57,FALSE,-,25,0,0,0.14,0,0.43,0,0.43,surprise
+181,Innocent_Witness,Drama,5282,161,병우,Byeongwoo,Male,54.83,FALSE,-,7,0.28,0.06,0.04,0.02,0.2,0.06,0.35,surprise
+116,Believer,Crime/Thriller,4389,44,보령,Boryeong,Female,35.8,FALSE,-,14,0.05,0.02,0.14,0.05,0.25,0.11,0.39,surprise
+37,Agagil,Drama,3376,1461,보현 (엄마),Bohyeon,Female,28.94,TRUE,Hearing Impairment,12,0.05,0.04,0.04,0.09,0.42,0.32,0.04,sadness
+6,Au_Revoir_UFO,Romance,4476,83,복덕방 노인,Real-estate Man,Male,62.99,FALSE,-,36,0.02,0.04,0.1,0.36,0.23,0.13,0.12,happiness
+67,Keys_to_the_Heart,Comedy,3970,74,복자,Bokja,Female,51.78,FALSE,-,2,0.01,0,0.07,0,0.15,0.16,0.61,surprise
+153,Miracle_in_Cell_No_7,Comedy,3481,220,봉식,Bongshik,Male,47.61,FALSE,-,35,0.12,0.15,0.03,0.14,0.28,0.05,0.22,surprise
+188,Bunt,Comedy,2350,43,부동산 사장,Real-estate Manager,Male,32.6,FALSE,-,15,0,0.02,0,0.09,0.65,0.14,0.09,sadness
+120,Believer,Crime/Thriller,4389,46,브라이언,Brian,Male,35.04,FALSE,-,3,0.07,0.04,0.2,0.02,0.15,0.13,0.39,surprise
+9,Au_Revoir_UFO,Romance,4476,70,상규,Sanggyu,Male,38.57,FALSE,-,29,0.03,0.03,0.03,0.26,0.41,0.2,0.04,happiness
+190,Bunt,Comedy,2350,153,상철,Sangcheol,Male,38.32,FALSE,-,10,0.02,0.11,0.02,0.07,0.43,0.27,0.07,sadness
+47,CHEER_UP_MR_LEE,Comedy,4265,738,샛별(딸),Saetbyeol,Female,22.11,FALSE,-,12,0.01,0.01,0.03,0.08,0.5,0.33,0.06,sadness
+159,Miracle_in_Cell_No_7,Comedy,3481,52,서노인,Oldman Seo,Male,59.42,FALSE,-,37,0,0.08,0.02,0.21,0.44,0.1,0.15,happiness
+170,Silenced,Drama,4860,166,서유진,Yujin,Female,29.63,FALSE,-,3,0.02,0.04,0.12,0,0.3,0.1,0.42,surprise
+19,Who_Are_You,Romance,3884,1458,서인주(여주),Injoo,Female,32.15,TRUE,Hearing Impairment,13,0.05,0.02,0.14,0.05,0.32,0.15,0.26,surprise
+105,Memories_of_Murder,Crime/Thriller,3663,1102,서태윤,Taeyoon,Male,32.86,FALSE,-,7,0.06,0.02,0.04,0.07,0.66,0.11,0.05,sadness
+38,Agagil,Drama,3376,612,성락 (아빠),Seongrak,Male,34.48,TRUE,Hearing Impairment,17,0.04,0.03,0.02,0.13,0.47,0.23,0.06,sadness
+58,Like_for_Likes,Romance,5594,848,성찬,Seongchan,Male,46.79,FALSE,-,18,0.04,0.03,0.01,0.14,0.56,0.05,0.18,surprise
+53,CHEER_UP_MR_LEE,Comedy,4265,42,소방동료1,Firefighter1,Male,45.79,FALSE,-,10,0,0.07,0.05,0,0.43,0.36,0.1,sadness
+202,Inseparable_Bros,Drama,4440,137,송주사,Jusa,Male,55.22,FALSE,-,3,0.01,0.01,0.05,0.01,0.47,0.11,0.33,surprise
+25,The_Soup,Drama,394,108,순식,Soonsik,Male,52.99,TRUE,Intellectual Disability,20,0.02,0.12,0.03,0.09,0.41,0.31,0.03,sadness
+26,The_Soup,Drama,394,54,순영 (딸),Soonyeong,Female,8.31,FALSE,Autism,18,0.07,0.04,0,0.09,0.59,0.15,0.06,sadness
+177,Innocent_Witness,Drama,5282,1021,순호,Soonho,Male,35.35,FALSE,-,9,0.04,0.02,0.1,0.04,0.31,0.15,0.35,surprise
+180,Innocent_Witness,Drama,5282,26,순호 부,Soonho's Father,Male,60.96,FALSE,-,3,0.04,0,0.08,0,0.42,0.12,0.35,surprise
+41,Agagil,Drama,3376,35,시어머니,Mother-in-law,Female,53.69,FALSE,-,27,0,0,0.03,0.09,0.43,0.34,0.11,sadness
+108,Memories_of_Murder,Crime/Thriller,3663,213,신동철,Dongcheol,Male,62.47,FALSE,-,3,0.02,0,0.07,0.01,0.47,0.37,0.06,sadness
+61,Like_for_Likes,Romance,5594,26,아기,Baby,Male,8.19,FALSE,-,13,0,0,0.04,0.04,0.73,0.19,0,sadness
+161,Innocence,Drama,4446,2009,안정인 (언니),Jungin,Female,31.27,FALSE,-,3,0.05,0.02,0.07,0.01,0.18,0.11,0.57,surprise
+121,The_Preparation,Drama,3176,1311,애순(엄마),Aesoon(Mother),Female,55.33,FALSE,-,18,0.01,0.02,0.04,0.14,0.3,0.45,0.04,sadness
+24,The_Soup,Drama,394,59,애심,Aaeshim,Female,32.36,TRUE,Intellectual Disability,30,0.05,0.08,0.03,0.2,0.37,0.12,0.14,happiness
+97,My_Bossy_Girl,Romance,4255,150,양 코치,Coach Yang,Male,34.33,FALSE,-,22,0.03,0.06,0.05,0.08,0.32,0.07,0.39,surprise
+50,CHEER_UP_MR_LEE,Comedy,4265,114,양두목,Boss Yang,Male,40.68,FALSE,-,14,0.01,0.04,0.08,0.04,0.64,0.13,0.05,sadness
+166,Innocence,Drama,4446,69,양순경,Soonkyeong,Male,48.51,FALSE,-,9,0.1,0.04,0.06,0.03,0.35,0.28,0.14,sadness
+29,Barefoot_Gi_Bong,Comedy,3200,978,엄기봉,Kibong,Male,41.89,TRUE,Intellectual Disability,50,0.05,0.13,0.03,0.35,0.26,0.13,0.05,happiness
+32,Barefoot_Gi_Bong,Comedy,3200,346,엄마,Mother,Female,47.05,FALSE,-,10,0.02,0.03,0.01,0.08,0.49,0.24,0.14,sadness
+31,Barefoot_Gi_Bong,Comedy,3200,260,여창,Yeochang,Male,36.05,FALSE,-,22,0.04,0.04,0.03,0.17,0.43,0.17,0.11,happiness
+77,Stone_Skipping,Drama,3553,65,염씨,Mr Yeom,Male,65.98,FALSE,-,15,0,0.06,0.02,0.14,0.54,0.22,0.03,sadness
+196,Sympathy_For_Mr_Vengeance,Crime/Thriller,2731,242,영미,Yeongmi,Female,33.02,FALSE,-,8,0.01,0.02,0.06,0.03,0.15,0.17,0.57,surprise
+36,Barefoot_Gi_Bong,Comedy,3200,84,영삼,Yeongsam,Male,50.8,FALSE,-,6,0.08,0.11,0.02,0.02,0.42,0.31,0.04,sadness
+43,CHEER_UP_MR_LEE,Comedy,4265,366,영수,Yeongsoo,Male,32.96,FALSE,-,18,0.03,0.03,0.07,0.09,0.5,0.21,0.07,sadness
+99,My_Bossy_Girl,Romance,4255,92,영철,Yeongcheol,Male,28.18,TRUE,Physical Disability,25,0.08,0.07,0.09,0.11,0.15,0.04,0.47,surprise
+176,Silenced,Drama,4860,57,영훈,Yeonghoon,Male,31.46,FALSE,-,3,0.04,0.04,0.14,0.04,0.21,0.16,0.39,surprise
+151,Miracle_in_Cell_No_7,Comedy,3481,921,예승 (딸),Yaeseung,Female,23.04,FALSE,-,29,0.01,0.02,0.02,0.14,0.38,0.33,0.1,sadness
+113,Believer,Crime/Thriller,4389,132,오연옥,Yeonok,Female,36.65,FALSE,-,3,0.05,0.01,0.05,0,0.12,0.14,0.63,surprise
+187,Bunt,Comedy,2350,16,오예령,Yaeryeong,Female,16.44,FALSE,-,7,0,0,0,0.06,0.88,0.06,0,happiness
+63,Keys_to_the_Heart,Comedy,3970,386,오진태,Jintae,Male,33.97,TRUE,Autism,12,0.08,0.06,0.09,0.04,0.2,0.06,0.46,surprise
+130,Roaring_Currents,Action,3695,105,와키자카,Wakijaka,Male,37.68,FALSE,-,1,0.05,0.05,0.19,0,0.17,0.24,0.3,surprise
+157,Miracle_in_Cell_No_7,Comedy,3481,670,용구,Yonggu,Male,44.44,TRUE,Intellectual Disability,27,0.07,0.06,0.08,0.14,0.19,0.22,0.24,surprise
+74,Stone_Skipping,Drama,3553,96,용덕,Yongduk,Male,33.85,FALSE,-,18,0.02,0,0.03,0.11,0.42,0.39,0.03,sadness
+100,My_Bossy_Girl,Romance,4255,234,용태,Yongtae,Male,30.97,FALSE,-,8,0.03,0.04,0.06,0.02,0.35,0.14,0.36,surprise
+91,Blind,Crime/Thriller,2972,97,원장,Orphanage Director ,Female,40.25,FALSE,-,21,0.01,0.06,0.02,0.18,0.31,0.19,0.24,surprise
+112,Believer,Crime/Thriller,4389,623,원호,Wonho,Male,38.19,FALSE,-,4,0.04,0.02,0.09,0.02,0.3,0.17,0.36,surprise
+40,Agagil,Drama,3376,461,원효 (아들),Wonhyo,Male,18.2,FALSE,-,8,0.04,0.03,0.01,0.03,0.38,0.45,0.05,sadness
+8,Au_Revoir_UFO,Romance,4476,51,유도복,Judo Boy,Male,24.65,FALSE,-,27,0.1,0.1,0.02,0.04,0.47,0.16,0.12,sadness
+70,Stone_Skipping,Drama,3553,790,윤석구,Seokgoo,Male,33.18,TRUE,Intellectual Disability,23,0.07,0.08,0.01,0.14,0.42,0.16,0.13,sadness
+175,Silenced,Drama,4860,108,윤자애,Jaaae,Female,32.32,FALSE,-,4,0.01,0.02,0.12,0.05,0.18,0.09,0.54,surprise
+1,Marathon,Drama,4052,1390,윤초원,Chowon,Male,28.19,TRUE,Autism,10,0.03,0.04,0.06,0.03,0.25,0.12,0.46,surprise
+98,My_Bossy_Girl,Romance,4255,116,은정,Eunjeong,Female,32.34,TRUE,Physical Disability,15,0.01,0.01,0.03,0.13,0.34,0.13,0.34,surprise
+72,Stone_Skipping,Drama,3553,523,은지,Eunji,Female,23.98,FALSE,-,23,0.03,0.03,0.01,0.16,0.36,0.32,0.09,sadness
+78,Oneday,Romance,3542,1491,이강수,Kangsoo,Male,31.56,FALSE,-,12,0.03,0.04,0.01,0.11,0.47,0.26,0.08,sadness
+15,MY_ANNOYING_BROTHER,Comedy,4650,364,이수현(코치),Soohyeon,Female,26.53,FALSE,-,18,0,0.01,0.01,0.13,0.54,0.19,0.11,sadness
+56,Like_for_Likes,Romance,5594,780,이수호,Sooho,Male,27.61,TRUE,Hearing Impairment,28,0.04,0.02,0.01,0.25,0.54,0.1,0.04,happiness
+126,Roaring_Currents,Action,3695,383,이순신,Soonshin,Male,55.8,FALSE,-,2,0.08,0.04,0.13,0.01,0.36,0.1,0.29,surprise
+42,CHEER_UP_MR_LEE,Comedy,4265,1267,이철수,Chulsoo,Male,35.55,TRUE,Intellectual Disability,4,0.03,0.05,0.05,0.02,0.35,0.35,0.14,sadness
+128,Roaring_Currents,Action,3695,193,이회,Leehoi,Male,26.67,FALSE,-,1,0.02,0.03,0.03,0.02,0.29,0.33,0.29,sadness
+122,The_Preparation,Drama,3176,934,인규,Ingyu,Male,36.48,TRUE,Intellectual Disability,35,0.03,0.03,0.02,0.37,0.31,0.09,0.13,happiness
+129,Roaring_Currents,Action,3695,80,임준영,Joonyeong,Male,34.96,FALSE,-,5,0.1,0.07,0.26,0.01,0.21,0.11,0.23,fear
+179,Innocent_Witness,Drama,5282,1060,임지우,Jiwoo,Female,28.57,TRUE,Autism,9,0.04,0.01,0.1,0.06,0.17,0.17,0.45,surprise
+138,GLOVE,Drama,5519,264,장대근,Daegeun,Male,28.12,TRUE,Hearing Impairment,7,0.01,0.03,0.13,0.01,0.15,0.23,0.44,surprise
+152,Miracle_in_Cell_No_7,Comedy,3481,285,장민환 (교도소장),Prison Warden,Male,47.9,FALSE,-,8,0.07,0,0.05,0.06,0.68,0.12,0.03,sadness
+169,Silenced,Drama,4860,99,장형사,Detective Jang,Male,41,FALSE,-,3,0.06,0.05,0.13,0.01,0.23,0.07,0.44,surprise
+23,The_Soup,Drama,394,97,재구,Jaegoo,Male,22.71,FALSE,-,19,0.1,0.03,0.02,0.04,0.48,0.3,0.02,sadness
+106,Memories_of_Murder,Crime/Thriller,3663,85,전미선,Miseon,Female,27.91,FALSE,-,4,0,0.01,0,0,0.82,0.06,0.11,surprise
+171,Silenced,Drama,4860,232,전민수,Minsoo,Male,29.59,TRUE,Hearing Impairment,11,0.07,0.02,0.09,0.04,0.2,0.2,0.38,surprise
+163,Innocence,Drama,4446,129,정수,Jeongsoo,Male,28.07,TRUE,Autism,10,0.11,0.06,0.04,0.05,0.19,0.14,0.4,surprise
+203,Inseparable_Bros,Drama,4440,220,정순 (동구 모),Jeongsoon(Mother),Female,50.17,FALSE,-,9,0.01,0,0.04,0.1,0.35,0.18,0.32,surprise
+204,Inseparable_Bros,Drama,4440,50,정순 남편,Juongsoon's Husband,Male,40.08,FALSE,-,4,0,0.02,0.06,0,0.62,0.16,0.14,sadness
+132,Roaring_Currents,Action,3695,73,정씨여인,Woman Jung,Female,38.1,TRUE,Language Disorder,16,0.07,0.04,0.19,0.03,0.16,0.07,0.44,surprise
+2,Marathon,Drama,4052,402,정욱(코치),Jungwook,Male,43.71,FALSE,-,9,0.13,0.06,0.08,0.02,0.32,0.13,0.26,surprise
+35,Barefoot_Gi_Bong,Comedy,3200,211,정원,Jungwon,Female,29.43,FALSE,-,33,0.01,0,0.02,0.34,0.42,0.15,0.06,happiness
+124,The_Preparation,Drama,3176,62,정자,Jeongja,Female,37.85,FALSE,-,29,0,0,0,0.35,0.34,0.13,0.18,happiness
+10,Au_Revoir_UFO,Romance,4476,32,정태,Jungtae,Male,33.84,FALSE,-,64,0,0.06,0,0.5,0.25,0.06,0.12,happiness
+110,Memories_of_Murder,Crime/Thriller,3663,161,조병순,Byeongsoon,Male,38.25,FALSE,-,16,0.04,0.03,0.01,0.12,0.6,0.11,0.08,happiness
+104,Memories_of_Murder,Crime/Thriller,3663,244,조용구,Yonggu,Male,36.8,FALSE,-,13,0.06,0.05,0.05,0.05,0.62,0.09,0.08,sadness
+89,Blind,Crime/Thriller,2972,549,조형사,Detective Jo,Male,35.77,FALSE,-,13,0.06,0.03,0.06,0.14,0.51,0.11,0.09,happiness
+164,Innocence,Drama,4446,138,종묘상,Seedling Dealer,Male,60.68,FALSE,-,6,0.03,0.05,0.09,0.01,0.25,0.17,0.39,surprise
+60,Like_for_Likes,Romance,5594,931,주란,Jooran,Female,36.38,FALSE,-,18,0.02,0,0.02,0.1,0.44,0.29,0.14,sadness
+118,Believer,Crime/Thriller,4389,37,주영,Jooyeong,Female,28.03,TRUE,Hearing Impairment,20,0,0,0.24,0.03,0.22,0.11,0.41,surprise
+64,Keys_to_the_Heart,Comedy,3970,423,주인숙 (엄마),Insook,Female,45.72,FALSE,-,7,0.09,0.03,0.1,0.02,0.24,0.15,0.38,surprise
+28,The_Soup,Drama,394,6,주인집 아줌마,Mrs Houseowner,Female,40.83,FALSE,-,14,0,0,0.17,0,0.83,0,0,fear
+189,Bunt,Comedy,2350,208,준태,Joontae,Male,10.65,FALSE,-,17,0.01,0.02,0,0.14,0.53,0.21,0.08,sadness
+18,MY_ANNOYING_BROTHER,Comedy,4650,44,중년남,Middle-Aged Man,Male,30.32,FALSE,-,6,0,0.05,0,0.02,0.68,0.23,0.02,sadness
+3,Marathon,Drama,4052,198,중원(동생),Joongwon,Male,24.85,FALSE,-,3,0.02,0.02,0.1,0.01,0.38,0.22,0.26,surprise
+20,Who_Are_You,Romance,3884,1755,지형태(남주),Hyungtae,Male,28.46,FALSE,-,11,0.06,0.03,0.12,0.05,0.32,0.17,0.25,surprise
+79,Oneday,Romance,3542,12,진영,Jinyeong,Female,30.08,FALSE,-,21,0,0,0,0.25,0.42,0.25,0.08,happiness
+55,Like_for_Likes,Romance,5594,791,진우,Jinwoo,Male,23.69,FALSE,-,16,0.01,0.01,0.02,0.12,0.6,0.1,0.14,surprise
+172,Silenced,Drama,4860,173,진유리,Yuri,Female,30.25,TRUE,Intellectual Disability,18,0.06,0.11,0.1,0.04,0.26,0.12,0.31,surprise
+172,Silenced,Drama,4860,173,진유리,Yuri,Female,30.25,TRUE,Hearing Impairment,18,0.06,0.11,0.1,0.04,0.26,0.12,0.31,surprise
+115,Believer,Crime/Thriller,4389,185,진하림,Harim,Male,45.06,FALSE,-,11,0.02,0.01,0.11,0.1,0.31,0.09,0.36,surprise
+75,Stone_Skipping,Drama,3553,71,진환,Jinhwan,Male,39.27,FALSE,-,16,0.04,0.04,0.01,0.04,0.35,0.42,0.08,sadness
+81,Oneday,Romance,3542,87,차대리,Manager Cha,Male,24.44,FALSE,-,24,0.07,0.02,0.01,0.15,0.6,0.11,0.03,happiness
+134,GLOVE,Drama,5519,843,차명재,Myeongjae,Male,29.62,TRUE,Hearing Impairment,10,0.06,0.03,0.12,0.01,0.25,0.09,0.44,surprise
+136,GLOVE,Drama,5519,68,차명재 어머니,Myeongjae's Mother,Female,41.93,FALSE,-,18,0.06,0.01,0.1,0.06,0.19,0.09,0.49,surprise
+135,GLOVE,Drama,5519,785,찰스,Charles,Male,33.96,FALSE,-,11,0.04,0.04,0.08,0.03,0.28,0.16,0.37,surprise
+96,My_Bossy_Girl,Romance,4255,261,창길,Changgil,Male,36.69,FALSE,-,13,0.02,0.01,0.07,0.08,0.21,0.2,0.43,surprise
+162,Innocence,Drama,4446,405,채화자 (엄마),Hwaja,Female,48.16,FALSE,-,5,0.05,0.03,0.08,0.01,0.22,0.21,0.4,surprise
+195,Sympathy_For_Mr_Vengeance,Crime/Thriller,2731,86,최 반장,Investigation Leader Choi,Male,37.13,FALSE,-,1,0.06,0,0.05,0,0.33,0.2,0.37,surprise
+34,Barefoot_Gi_Bong,Comedy,3200,139,최 이장,Village-Leader Choi,Male,38.06,FALSE,-,49,0,0.02,0.03,0.35,0.32,0.19,0.09,happiness
+5,Au_Revoir_UFO,Romance,4476,1758,최경우(여주),Kyungwoo,Female,28.84,TRUE,Visual Impairment,35,0.02,0.02,0.01,0.32,0.44,0.14,0.05,happiness
+92,Blind,Crime/Thriller,2972,113,최명진,Myeongjin,Male,37.31,FALSE,-,14,0.01,0.03,0.07,0.08,0.65,0.07,0.1,surprise
+22,Who_Are_You,Romance,3884,70,최보영(여자1),Boyeong,Female,34.99,FALSE,-,22,0.01,0.04,0.31,0.07,0.1,0.23,0.23,fear
+85,Oneday,Romance,3542,39,최지호,Jiho,Male,10.74,FALSE,-,19,0.1,0.05,0.15,0.1,0.38,0.21,0,sadness
+160,Innocence,Drama,4446,642,추시장,Mayor Choo,Male,51.82,FALSE,-,7,0.06,0.06,0.2,0.02,0.18,0.11,0.37,surprise
+155,Miracle_in_Cell_No_7,Comedy,3481,333,춘호,Choonho,Male,47.29,FALSE,-,15,0.02,0.03,0.02,0.08,0.74,0.05,0.06,happiness
+39,Agagil,Drama,3376,105,친정어머니,Mother,Female,39.79,FALSE,-,10,0.01,0,0.01,0.02,0.4,0.55,0.01,sadness
+141,GLOVE,Drama,5519,65,파출소장,Police Chief,Male,53.94,FALSE,-,8,0.03,0.02,0.17,0.03,0.08,0.06,0.62,surprise
+131,Roaring_Currents,Action,3695,11,하루,Haru,Male,25.91,FALSE,-,21,0,0.09,0.18,0.27,0.09,0.09,0.27,happiness
+65,Keys_to_the_Heart,Comedy,3970,214,한가율,Gayool,Female,29.21,FALSE,-,6,0.04,0.01,0.24,0,0.21,0.16,0.34,surprise
+12,Oasis,Drama,3559,1016,한공주(여주),Gongjoo,Female,37.77,TRUE,Brain Lesions,31,0.05,0.1,0.06,0.21,0.4,0.1,0.08,happiness
+95,My_Bossy_Girl,Romance,4255,676,한휘소,Huiso,Male,24.41,FALSE,-,25,0.08,0.05,0.03,0.17,0.37,0.13,0.18,surprise
+76,Stone_Skipping,Drama,3553,87,해철,Haecheol,Male,33.37,FALSE,-,18,0.02,0.06,0.03,0.11,0.57,0.15,0.05,sadness
+186,Bunt,Comedy,2350,426,허동구,Donggu,Male,11.65,TRUE,Intellectual Disability,28,0.04,0.08,0.01,0.2,0.46,0.14,0.07,happiness
+191,Bunt,Comedy,2350,491,허진규,Jingyu,Male,39.21,FALSE,-,23,0.09,0.04,0.06,0.13,0.56,0.07,0.04,happiness
+182,Innocent_Witness,Drama,5282,125,현정,Hyeonjung,Female,34.8,FALSE,-,7,0.07,0.01,0.1,0.01,0.24,0.06,0.51,surprise
+51,CHEER_UP_MR_LEE,Comedy,4265,39,혜영,Hyeyeong,Female,29.05,FALSE,-,30,0.1,0.03,0.08,0.03,0.08,0.67,0.03,sadness
+102,My_Bossy_Girl,Romance,4255,152,혜진 부,Hyejin Father,Male,57.02,FALSE,-,5,0.03,0.03,0.1,0.02,0.34,0.04,0.45,surprise
+66,Keys_to_the_Heart,Comedy,3970,17,홍 마담,Madame Hong,Female,36.12,FALSE,-,23,0,0,0.18,0.06,0.24,0.12,0.41,surprise
+11,Oasis,Drama,3559,1070,홍종두(남주),Jongdoo,Male,35.29,FALSE,-,22,0.11,0.04,0.03,0.16,0.44,0.14,0.09,happiness
+14,Oasis,Drama,3559,85,홍종세,Jongsae,Male,33.86,FALSE,-,9,0.05,0.04,0.02,0.08,0.72,0.05,0.05,happiness
+13,Oasis,Drama,3559,115,홍종일,Jongill,Male,35.85,FALSE,-,8,0.11,0.05,0.03,0.05,0.27,0.25,0.23,sadness
+174,Silenced,Drama,4860,323,황변호사,Attorney Hwang,Male,63.86,FALSE,-,4,0.17,0.03,0.06,0.02,0.35,0.11,0.26,surprise
+4,Marathon,Drama,4052,65,희근(아빠),Huigeun,Male,39.48,FALSE,-,2,0.02,0,0.06,0.03,0.6,0.18,0.11,sadness
+45,CHEER_UP_MR_LEE,Comedy,4265,323,희자,Huija,Female,51.55,FALSE,-,6,0.01,0,0.08,0.04,0.56,0.2,0.11,sadness
+178,Innocent_Witness,Drama,5282,110,희중,Huijoong,Male,32.78,FALSE,-,5,0.05,0.03,0.05,0.02,0.15,0.13,0.57,surprise
